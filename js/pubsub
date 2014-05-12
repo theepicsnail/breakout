@@ -1,0 +1,3 @@
+points.add(val)
+brick.destroy(brick)
+ball.moved(ball)
